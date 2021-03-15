@@ -11,7 +11,7 @@ export default function Home() {
     <div className="dark:text-white dark:bg-black">
       <HeadObject />
       <Nav />
-      The perfect Next.js Theme. Contains everything. Check README for more information.
+      HackIndiana.
     </div>
   )
 }
