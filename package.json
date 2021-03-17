@@ -1,7 +1,9 @@
 {
-  "name": "perfect-next-theme",
+  "name": "dunes",
   "version": "0.1.0",
   "private": true,
+  "main":"index.js",
+  "description":"website for Indiana Hackathon",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
