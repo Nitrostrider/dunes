@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 export default function HeadObject({children}) {
-    const title = "The Perfect Next.js Theme";
+    const title = "HackIndiana";
     const description = "This is the perfect Next.js theme that you should use instead of create-next-app.";
     const keywords = "put some fun keywords here";
     const author = "Sarthak Mohanty";
